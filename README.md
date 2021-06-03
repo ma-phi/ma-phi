@@ -1,5 +1,5 @@
 - 👋 Hi, this is Manas
-- 👀 I’m interested in developing / deploying user oriented products
+- 👀 I’m interested in learning development/deployment of large scale user oriented products and services
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything which curates my interest
 - 🌐 Seeking truth 
