@@ -1,7 +1,7 @@
 - 👋 Hi, this is Manas
 - 👀 I’m interested in learning development/deployment of large scale user oriented products and services
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything which curates my interest
+- 💞️ I'm learning UI/UX and product design and willing to collaborate on the same
 - 🌐 Seeking truth 
 - 📫 Reach me : manaspande54@gmail.com
 
