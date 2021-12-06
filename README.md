@@ -1,8 +1,7 @@
 - 👋 Hi, this is Manas
 - 👀 I’m interested in learning development/deployment of large scale user oriented products and services
-- 🌱 I’m currently learning Programming in web-frameworks, UI Design and Operating Systems
-- 💞️ I'm am inclined towards UI/UX and product design and willing to collaborate on the same
-- 🌐 Seeking truth 
+- 🌱 I’m currently learning CS math and functional programming
+- 💞️ I'm am inclined towards UI/UX, product design or scalable decentralized systems and willing to collaborate on the same
 - 📫 Reach me : https://www.linkedin.com/in/manaseekstruth/
 
 <!---
