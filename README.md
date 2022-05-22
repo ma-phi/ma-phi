@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning development + deployment of large scale user-oriented products and services
 - 🌱 I’m currently learning CS math and cryptography !
 - 💞️ Inclined towards UI/UX, product design 
-- 📫 Reach me : reach.manas@zohomail.eu
 - 👨‍💻 Social : https://www.linkedin.com/in/manaseekstruth/
 
 <!---
